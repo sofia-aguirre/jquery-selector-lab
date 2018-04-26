@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) jQuery Selector Lab (90 mins)
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) jQuery Selector Lab
 
 ## Learning Objectives
 
@@ -18,7 +18,7 @@ In the first part of this lab session, you'll practice building out some simple 
 
 In the second part of this lab session, you'll work on building out an interactive nav.
 
-## Exercise 1 - Select Fun (30 mins)
+## Exercise 1 - Select Fun 
 
 #### Requirements
 
@@ -116,7 +116,7 @@ Here's what each step will look like when you're finished:
 ## Hungry for More?
 - If you finish early, follow the instructions in [starter\_code/select\_fun\_part\_2/js/main.js](starter_code/select_fun_part_2/js/main.js).
 
-## Exercise #2 - Interactive Nav (60 mins)
+## Exercise #2 - Interactive Nav 
 
 In this portion of the lab session, you'll build out an interactive nav.
 
@@ -127,8 +127,6 @@ Before we get started, let's spend a few minutes looking up data-attributes in o
   - Bonus: Why are data attributes useful?
 - Regroup as a class and share research on data attributes.
   - What resources did you find most helpful when looking this up?
-
-> Instructor note: Get input from different groups and whiteboard the results.
 
 #### Requirements
 - Spend 5 minutes writing out pseudocode with a partner.
